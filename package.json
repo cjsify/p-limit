@@ -1,0 +1,23 @@
+{
+  "name": "@cjsify/p-limit",
+  "version": "4.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjsify/p-limit.git"
+  },
+  "keywords": [
+    "p-limit"
+  ],
+  "author": "Sukka <https://skk.moe>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cjsify/p-limit/issues"
+  },
+  "homepage": "https://github.com/cjsify/p-limit#readme",
+  "dependencies": {
+    "@cjsify/yocto-queue": "^1.0.0"
+  }
+}
